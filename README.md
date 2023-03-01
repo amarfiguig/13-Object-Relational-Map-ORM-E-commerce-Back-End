@@ -1,6 +1,6 @@
 ## 13-Object-Relational-Map-ORM-E-commerce-Back-End
   
-   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="20" role="img" aria-label="License: The Unlicense"><title>License: The Unlicense</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="138" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="51" height="20" fill="#555"/><rect x="51" width="87" height="20" fill="#007ec6"/><rect width="138" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="265" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="410">License</text><text x="265" y="140" transform="scale(.1)" fill="#fff" textLength="410">License</text><text aria-hidden="true" x="935" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="770">The Unlicense</text><text x="935" y="140" transform="scale(.1)" fill="#fff" textLength="770">The Unlicense</text></g></svg>
+The Object-Relational Mapping (ORM) E-commerce Back-End is a software system that allows for the creation of a functional e-commerce website by providing an interface between a database and a web application. It uses an ORM framework to map objects from a relational database to application code, simplifying the development process and allowing for more efficient database management.
 
    ## Description
   This project involved creating a functional back-end for an ORM E-commerce site using Express and Sequelize. The scope of the project was to build a robust system that can handle various CRUD operations and associations for different data types.
@@ -45,4 +45,4 @@ If you have any questions, feel free to contact me using the information provide
    
       ## License
 N/A
-   [The Unlicense](https://unlicense.org/)
+ 
