@@ -136,10 +136,3 @@ router.delete('/:id', (req, res) => {
 });
 
 module.exports = router;
-
-/*{
-  product_id: req.body.product_id,
-  product_name: req.body.product_name,
-  price: req.body.price,
-  stock: req.body.stock,
-}*/
