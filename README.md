@@ -43,6 +43,6 @@ To showcase the application, run these tests. First, seed the database and then 
 If you have any questions, feel free to contact me using the information provided below. Additionally, you can check out what else I'm currently working on.   [AmarFiguig](https://www.github.com/amarfiguig)  
    myfiguig@gmail.com
    
-      ## License
+   ## License
 N/A
  
