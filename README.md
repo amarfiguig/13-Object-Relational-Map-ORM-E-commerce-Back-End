@@ -3,8 +3,9 @@
    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="20" role="img" aria-label="License: The Unlicense"><title>License: The Unlicense</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="138" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="51" height="20" fill="#555"/><rect x="51" width="87" height="20" fill="#007ec6"/><rect width="138" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="265" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="410">License</text><text x="265" y="140" transform="scale(.1)" fill="#fff" textLength="410">License</text><text aria-hidden="true" x="935" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="770">The Unlicense</text><text x="935" y="140" transform="scale(.1)" fill="#fff" textLength="770">The Unlicense</text></g></svg>
 
    ## Description
-   *A brief description of the use and scope of the project:*    
-   Using Express and Sequelize, created a functioning back-end for an e-commerce site.
+  This project involved creating a functional back-end for an ORM E-commerce site using Express and Sequelize. The scope of the project was to build a robust system that can handle various CRUD operations and associations for different data types.
+The objective of this project was to create a database backend for a retail company's inventory management system. This involved creating API routes and models for product categories, products, and tags.
+My task was to write the API routes for a back-end e-commerce database to enable operations and association models for each data type.
 
    ## Table of Contents
    - [Description](#description)
@@ -28,8 +29,6 @@ npm <span class="hljs-selector-tag">i</span> express
 To update the server side of an e-commerce site using JSON, you can utilize this project with tools like Insomnia. Detailed instructions and examples are provided for your convenience.
   
 
-   ## License
-   *[The Unlicense](https://unlicense.org/)*
 
    ## Contributing
    
@@ -43,3 +42,7 @@ To showcase the application, run these tests. First, seed the database and then 
    
 If you have any questions, feel free to contact me using the information provided below. Additionally, you can check out what else I'm currently working on.   [AmarFiguig](https://www.github.com/amarfiguig)  
    myfiguig@gmail.com
+   
+      ## License
+N/A
+   [The Unlicense](https://unlicense.org/)
