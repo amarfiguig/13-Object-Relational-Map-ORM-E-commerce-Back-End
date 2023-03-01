@@ -32,7 +32,7 @@ To update the server side of an e-commerce site using JSON, you can utilize this
 
    ## Contributing
    
-<div class="markdown prose w-full break-words dark:prose-invert light"><p>Here's an alternative sentence:</p><p>If you have any ideas or would like to contribute to the project, please email <a href="mailto:myfiguig@gmail.com" target="_new">myfiguig@gmail.com</a> to receive credit. Detailed instructions on how to contribute are provided.</p></div>
+<div class="markdown prose w-full break-words dark:prose-invert light"><p>If you have any ideas or would like to contribute to the project, please email <a href="mailto:myfiguig@gmail.com" target="_new">myfiguig@gmail.com</a> to receive credit. Detailed instructions on how to contribute are provided.</p></div>
 
    ## Tests
 
