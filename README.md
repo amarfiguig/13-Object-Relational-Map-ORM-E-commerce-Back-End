@@ -27,8 +27,6 @@ npm <span class="hljs-selector-tag">i</span> express
    ## Usage
 
 To update the server side of an e-commerce site using JSON, you can utilize this project with tools like Insomnia. Detailed instructions and examples are provided for your convenience.
-  
-
 
    ## Contributing
    
